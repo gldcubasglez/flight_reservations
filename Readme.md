@@ -33,9 +33,3 @@ Se implementó un endpoint para generar datos por defecto con información de vu
 
 Se desarrollaron suites de pruebas unitarias y de integración.
 
-## Datos Personales
-
-Gleidy Cubas González
-
-gldcubasglez@gmail.com
-
